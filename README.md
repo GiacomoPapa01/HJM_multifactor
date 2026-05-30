@@ -172,5 +172,4 @@ market-vs-model comparisons for each calibration.
 
 ## Authors
 
-Giacomo Papa, Alessandro Torazzi, Andrea Meschieri, Cyril Hauser,
-Mattia Brichetti, Ellen Biagi — A.Y. 2024/25.
+Giacomo Papa, Alessandro Torazzi, Andrea Meschieri — A.Y. 2024/25.
